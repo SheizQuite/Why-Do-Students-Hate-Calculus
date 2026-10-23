@@ -82,12 +82,12 @@ This contrast suggests that students' perceived difficulties with Calculus may e
 
 ## Limitations
 
-- The survey included only 65 respondents, most of whom were Class 11 and Class 12 students.
-- The findings primarily reflect the experiences of students who had chosen Higher Mathematics.
+- The survey included only 65 respondents, most of whom were Class 11 and Class 12 students from the Sylhet region.
+- The findings primarily reflect the experiences of students from Sylhet who had chosen Higher Mathematics.
 - The data were self-reported and did not directly measure students' mathematical abilities.
 - The survey identifies patterns in students' experiences but cannot establish causal relationships.
 
-Therefore, the findings should be interpreted as insights into this sample rather than as conclusions about all HSC students.
+Therefore, the findings should be interpreted as insights into this sample from Sylhet rather than as conclusions about all HSC students in Bangladesh.
 
 ## Conclusion
 
