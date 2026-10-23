@@ -94,3 +94,6 @@ Therefore, the findings should be interpreted as insights into this sample from 
 This survey suggests that students' difficulties with Calculus involve more than remembering formulas. Although formula overload was the most frequently reported concern, students also identified calculation accuracy, method application, and selecting appropriate concepts as important challenges.
 
 The findings highlight the importance of examining how students apply mathematical knowledge, not just how they memorize rules. Further research with a larger and more diverse sample, combined with direct assessments of problem-solving skills, could help investigate these patterns more thoroughly.
+
+## Visualizations
+All charts (Q1-Q10) are available in [Survey_Visualizations.pdf](Survey_Visualizations.pdf) - 65 responses from Sylhet region.
