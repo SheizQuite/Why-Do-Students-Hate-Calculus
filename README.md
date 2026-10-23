@@ -12,7 +12,7 @@ My project examines students' perceptions of Calculus, their learning strategies
 
 ## Methodology
 
-I conducted a survey using Google Forms and received a total of **65 responses**.
+Created a 10-question structured survey (Q1-Q10) targeting HSC/University students in Sylhet. Distributed via college Facebook groups & Messenger, collected 65 validated responses in 7 days. Cleaned data, removed 3 incomplete entries.Why Google Forms? To ensure anonymity so students honestly share fear of calculus.Limitation: Sample biased to urban students with internet access - mentioned in report.
 
 The questionnaire explored the following areas:
 
